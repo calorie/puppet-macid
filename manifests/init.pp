@@ -1,6 +1,6 @@
 class macid (
-  $version = '1',
-  $build = '8',
+  $version = '1.1',
+  $build = '13',
 ){
   package { 'MacID':
     provider => 'compressed_app',
